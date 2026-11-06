@@ -805,7 +805,7 @@ if (TOKEN === 'PASTE_YOUR_BOT_TOKEN_HERE') {
   process.exit(1);
 }
 
-client.login(TOKEN);
+client.login(token);
 
 
 
