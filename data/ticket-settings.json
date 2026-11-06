@@ -1,0 +1,46 @@
+{
+  "1567877424538980534": {
+    "panels": {
+      "legacy": {
+        "id": "legacy",
+        "name": "panel 1",
+        "title": "BlazeCity's ticket",
+        "description": "<:Warning:1568120299520786464> before you send an invitation link kindly wait for admin to give you @partner role\nwhy?\n- to prevent being punish by bot\n- once u have a role send your ad and type .ad to see ours.",
+        "imageFile": "1567877424538980534.jpg",
+        "channelId": "1567879017439297556"
+      },
+      "9ade648b-f6fa-45ca-bcf2-b2273059326d": {
+        "id": "9ade648b-f6fa-45ca-bcf2-b2273059326d",
+        "name": "Bobo",
+        "title": "Лайк Ticket",
+        "description": "Press the button below to create a private ticket.",
+        "imageFile": null,
+        "channelId": "1567885549786632192"
+      },
+      "fa299e78-93ff-4d7f-af7a-380fc1644f81": {
+        "id": "fa299e78-93ff-4d7f-af7a-380fc1644f81",
+        "name": "BObe",
+        "title": "Лайк Ticket",
+        "description": "Press the button below to create a private ticket.",
+        "imageFile": null,
+        "channelId": "1567885549786632192"
+      },
+      "9a74b3c3-f23f-4d8d-a222-5573c95f4848": {
+        "id": "9a74b3c3-f23f-4d8d-a222-5573c95f4848",
+        "name": "asd",
+        "title": "asd",
+        "description": "Press the button below to create a private ticket.",
+        "imageFile": null,
+        "channelId": "1567885549786632192"
+      },
+      "fc5ba844-68b2-4358-9a55-8b561fa0711a": {
+        "id": "fc5ba844-68b2-4358-9a55-8b561fa0711a",
+        "name": "kakain na",
+        "title": "Ticket po",
+        "description": "polease be resposible sa ticket",
+        "imageFile": "1567877424538980534-fc5ba844-68b2-4358-9a55-8b561fa0711a.png",
+        "channelId": "1567885549786632192"
+      }
+    }
+  }
+}

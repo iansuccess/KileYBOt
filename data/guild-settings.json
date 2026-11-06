@@ -1,0 +1,46 @@
+{
+  "1567877424538980534": {
+    "antiLink": true,
+    "antiNuke": true,
+    "whitelistedUsers": [],
+    "autoJoinRoleId": "1567879795046613103",
+    "ownerId": "1531611262159687820",
+    "whitelistActions": {
+      "antiLink": {
+        "enabled": false,
+        "roleId": "1567894023241470097"
+      },
+      "creatingRole": {
+        "enabled": false,
+        "roleId": "1567894023241470097"
+      },
+      "creatingChannel": {
+        "enabled": false,
+        "roleId": "1567894023241470097"
+      },
+      "deletingRole": {
+        "enabled": false,
+        "roleId": "1567894023241470097"
+      },
+      "deletingChannel": {
+        "enabled": false,
+        "roleId": "1567894023241470097"
+      },
+      "givingAdminRole": {
+        "enabled": false,
+        "roleId": "1567894023241470097"
+      },
+      "makingRoleWithAdmin": {
+        "enabled": false,
+        "roleId": "1567894023241470097"
+      }
+    }
+  },
+  "1555431486360920105": {
+    "antiLink": true,
+    "antiNuke": true,
+    "whitelistedUsers": [],
+    "autoJoinRoleId": "1568130243481440406",
+    "ownerId": "1480966847435378878"
+  }
+}

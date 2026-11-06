@@ -1,0 +1,36 @@
+{
+  "1567877424538980534": {
+    "enabled": true,
+    "users": {
+      "1531611262159687820": {
+        "messages": 35,
+        "voiceSeconds": 84,
+        "voiceStartedAt": null,
+        "username": "ian"
+      },
+      "1480966847435378878": {
+        "messages": 9,
+        "voiceSeconds": 0,
+        "voiceStartedAt": null,
+        "username": "blazecity"
+      }
+    }
+  },
+  "1555431486360920105": {
+    "enabled": true,
+    "users": {
+      "1480966847435378878": {
+        "messages": 1,
+        "voiceSeconds": 0,
+        "voiceStartedAt": null,
+        "username": "blazecity"
+      },
+      "1531611262159687820": {
+        "messages": 4,
+        "voiceSeconds": 0,
+        "voiceStartedAt": null,
+        "username": "ian"
+      }
+    }
+  }
+}
