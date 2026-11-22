@@ -1,0 +1,14 @@
+{
+  "name": "likeybot-v1",
+  "version": "1.0.0",
+  "description": "Modular Discord bot with per-server prefixes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "mongodb": "^7.6.0",
+    "sharp": "^0.35.5"
+  }
+}
